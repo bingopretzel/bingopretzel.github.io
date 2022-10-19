@@ -7,4 +7,6 @@ This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
 
+All pictures from wikipedia
+
 Just added a new line
